@@ -1,7 +1,7 @@
 # VisoionProject_poencv
 This repositry save some intresting projects based on Opencv
 ## The list of projects
-|  name   |  description |
+|  Name   |  Description |
 |  ----  | ----  |
 | Parking_detetion  | Using opencv checks parking sapces |
 | People_detetion  | Using opencv checks people |
