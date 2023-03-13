@@ -6,3 +6,4 @@ This repositry save some intresting projects based on Opencv
 | Parking_detetion  | Using opencv checks parking sapces |
 | People_detetion  | Using opencv checks people |
 | Card_Recognition | Using opencv and mark recongnize cards|
+| Image_minlab | Sample app with some bacis funcition in compiter |
